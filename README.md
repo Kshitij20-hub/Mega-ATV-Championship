@@ -61,4 +61,4 @@
 - **Structure & transparency pattern:** provenance + time accounting + progress log approach adapted from a template we use across student repos.
 
 ## Contact
-**Kshitij Pandey** · <add_email_here> · [LinkedIn](add_link_here)
+**Kshitij Pandey** · <kshitijpandeybplgmail.com> · [LinkedIn](https://www.linkedin.com/in/kshitij-pandey20/)
